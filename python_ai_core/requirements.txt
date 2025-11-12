@@ -1,0 +1,6 @@
+opencv-python
+dlib
+websockets
+asyncio
+fer
+tensorflow
